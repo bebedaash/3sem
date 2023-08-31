@@ -1,2 +1,2 @@
 # 3sem
-Some programs from 3 semestr of RTU MIREA
+Some C++ programs from 3 semestr of RTU MIREA
