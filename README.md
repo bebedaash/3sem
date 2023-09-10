@@ -1,2 +1,2 @@
-# 3sem
-Some C++ programs from 3 semestr of RTU MIREA
+# Программирование
+Программы на C++ с обучения на 3 семестре в РТУ МИРЭА
